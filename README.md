@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek439dev(Abhishek Saxena)
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Full stack development
+- 👀 I’m interested in Web development, DSA, Java and Cloud Computing. 
+- 🌱 I’m currently learning Full stack development and DSA.
 - 💞️ I’m looking to collaborate on web developing projects.
 - 📫 How to reach me ? You can contact me via email saxenaabhishek439@gmail.com
 - 😄 Pronouns: HE/HIM
