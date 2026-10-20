@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web developing projects.
 - 📫 How to reach me ? You can contact me via email saxenaabhishek439@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I'm from a Non-tech background but enjoys coding and making projects.
+- ⚡ Fun fact: I'm from a Non-tech(Life Science) background but enjoys coding and making projects.
 
 <!---
 Abhishek439dev/Abhishek439dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
